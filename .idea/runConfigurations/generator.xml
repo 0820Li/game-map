@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="generator" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Main" />
+    <module name="2aa4.mesh.generator" />
+    <option name="PROGRAM_PARAMETERS" value="-k irregular -h 1080 -w 1920 -p 1000 -s 20 -o img/irregular.mesh" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
