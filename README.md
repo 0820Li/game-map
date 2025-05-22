@@ -1,10 +1,14 @@
 # Mesh Generator
 
+This is a copy of my course project of SFWRENG 2AA4, McMaster University.
+I uploaded the copy because the original repository are set to be private by organization.
+All files in this repository are used for my resume only.
+
 Authors:
 
 - Zongcheng Li (li1200@mcmaster.ca)
 - Jerry Jing (jingz2@mcmaster.ca)
-- Sébastien Mosser
+- Sébastien Mosser (Instructor)
 
 ## How to install?
 
